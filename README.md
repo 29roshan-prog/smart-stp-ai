@@ -29,24 +29,5 @@ A professional AI-powered dashboard for monitoring, predicting, and controlling 
 - `Python`, `Streamlit`, `scikit-learn`, `pandas`, `qrcode`, `pyttsx3`, `twilio`
 - Frontend & backend fully integrated in one Streamlit app
 
-## 📦 Files to Include
-
-| File                     | Purpose                          |
-|--------------------------|----------------------------------|
-| `app_full_final_expert_stp.py` | Main app logic                |
-| `trained_model.pkl`      | Trained ML model                 |
-| `requirements.txt`       | Library dependencies             |
-
-## 📂 Data Format for Upload
-
-CSV with headers:
-
-## 📡 Live App
-
-👉 Deploy it easily via [Streamlit Cloud](https://streamlit.io/cloud)
-
----
-
-Feel free to star ⭐ this repo if you find it useful, or fork to modify.
 
 
