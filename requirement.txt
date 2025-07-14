@@ -7,4 +7,3 @@ qrcode
 pyttsx3
 twilio
 joblib
-
